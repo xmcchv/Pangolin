@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra  -O3 -DNDEBUG  -rdynamic CMakeFiles/SimpleDisplay.dir/main.cpp.o  -o SimpleDisplay -Wl,-rpath,/home/ubuntu/Pangolin/build/src ../../src/libpangolin.so -lrt -lpthread -lOpenGL -lGLX -lGLU -lGLEW -lEGL -lX11 -lXext -lrt -lpthread -lOpenGL -lGLX -lGLU -lGLEW -lEGL -lX11 -lXext 
